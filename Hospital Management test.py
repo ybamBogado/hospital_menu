@@ -1,6 +1,8 @@
 """Este fue mi primer proyecto con menu y opciones en python, para una materia de fundamentos de informatica donde no vimos
 la programacion orientada a objetos"""
 
+from 
+
 #alumno: Ivan Emiliano Bogado Olmedo		comision:08
 
 #Para la promocion de la materia realice un programa relacionado a la gestión de pacientes
@@ -110,4 +112,3 @@ while user_election!="x":
 	print("-".ljust(80, "-"))
 	user_election=input("\033[92m Select one option or 'x' to exit: \033[0m")
 #ahora hace falta aprender orientado a objetos y crear las clases doctor y paciente par un hospital
-	
