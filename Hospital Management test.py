@@ -1,7 +1,7 @@
 """Este fue mi primer proyecto con menu y opciones en python, para una materia de fundamentos de informatica donde no vimos
 la programacion orientada a objetos"""
 
-
+import #clases doctor y paciente
 
 #alumno: Ivan Emiliano Bogado Olmedo		comision:08
 
